@@ -6,7 +6,7 @@ Meu nome é Luanna da Silva Pereira
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-  ### VocÊ entrar em contato comigo 
+  ### Você pode entrar em contato comigo 
 
 luanna.pereira@escola.pr.hov.br
 
