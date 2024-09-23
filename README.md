@@ -8,6 +8,6 @@ Meu nome é Luanna da Silva Pereira
 
   ### Você pode entrar em contato comigo 
 
-luanna.pereira@escola.pr.hov.br
+luanna.pereira@escola.pr.gov.br
 
 ![](https://media.tenor.com/WVjjUw-o7yoAAAAC/hello-kitty-hi.gif)
